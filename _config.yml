@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "xuxz23"
-description              : "PhD Candidate in Management Science and Engineering"
+description              : "Second year undergraduate student in Economics"
 repository               : "xuxz23/xuxz23.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "xuxz23"
   avatar           : "images/android-chrome-192x192.png"
   bio              : 
-  location         : "Stanford, CA"
+  location         : "Tsinghua, Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=B0KJHmQAAAAJ&hl=en"
