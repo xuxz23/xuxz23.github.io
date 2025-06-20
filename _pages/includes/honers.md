@@ -1,0 +1,18 @@
+# 🎖Honors & Awards
+
+- MS&E Departmental Fellowship, Stanford University (2023 & 2024)
+- Outstanding Graduate, Sichuan Province, China (2023)
+- "Top 10" Excellent Students, Sichuan University (2023)
+- Best Presentation in "Integrated Disaster Science Academic Salon", IDMR (2023)
+- First Prize, Outstanding Senior Project Poster Award, SCUPI (2023)
+- National Scholarship, China (2020 & 2022)
+- Outstanding Student, Sichuan University (2020 & 2021 & 2022)
+- Outstanding Graduate, Sichuan University (2022)
+- "Top 100" Excellent Students, Sichuan University (2022)
+- Excellent Student Scholarship, IDMR (2021 & 2022)
+- Student of the Year, SCUPI (2022)
+- First Class Comprehensive Scholarship, Sichuan University (2021)
+- Yongzhuang Top Ten Scholarships for College Students, Sichuan University (2021)
+- Dean's List, SCUPI (2021)
+- Meritorious Winner, Mathematical Contest in Modeling (2021)
+- Academic Star, SCUPI (2020) 

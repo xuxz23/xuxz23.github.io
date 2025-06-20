@@ -1,0 +1,25 @@
+main:
+  - title: "About Me"
+    url: "#about-me"
+
+  - title: "Education"
+    url: "#education"
+
+  - title: "Publications"
+    url: "#-publications"
+
+  - title: "Presentations"
+    url: "#presentations"
+
+  - title: "Patents"
+    url: "#patents"
+
+  - title: "Teaching"
+    url: "#teaching-experience"
+
+  - title: "Service"
+    url: "#academic-service"
+
+  - title: "Honors & Awards"
+    url: "#-honors-and-awards"
+
