@@ -1,5 +1,5 @@
-# 📝Publications
-(ignore this part)
+# 📝Publications(ignore this part)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Annals of Emergency Medicine</div><img src='../../images/Annals-of-Emergency-Medicine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
