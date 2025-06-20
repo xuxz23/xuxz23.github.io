@@ -7,6 +7,6 @@
   - Student in Tsinghua University School of Economics
 ## Training
 
-- **Summer research in DIMACS, Rutgers**, 06/20252020-08/2025
+- **Summer research in DIMACS, Rutgers**, 06/2025-08/2025
 
   
