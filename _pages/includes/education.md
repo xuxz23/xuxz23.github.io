@@ -2,7 +2,7 @@
 
 ## Degrees
 
-- **Stanford University**
+- **Tsinghua University**
   - Ph.D. in Management Science and Engineering (MS&E), 09/2023-06/2028 (Expected)
   - Master of Science in Epidemiology and Clinical Research (Epi & CR), 04/2024-03/2026 (Expected)
 - **Sichuan University - Pittsburgh Institute (SCUPI)**
