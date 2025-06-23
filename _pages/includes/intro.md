@@ -1,3 +1,3 @@
 # 🧑‍🎨About Me
 
-I am a second-year undergraduate student in Economics at Tsinghua University, where My college homeroom teacher is Professor **[Chenyuan Liu](https://chenyuanliu.github.io/)**. My research focuses on theoretical or empirical research in fields such as causal inference，social networks, social decision-making, social preferences, machine learning, statistics, etc, I am developing data-driven frameworks that study preferences and decisions in social networks.
+I am a second-year undergraduate student in Economics at Tsinghua University, where My college homeroom teacher is Professor **[Chenyuan Liu](https://chenyuanliu.github.io/)**. My research focuses on theoretical or empirical research in fields such as causal inference，social networks, social decision-making, social preferences, machine learning, statistics, etc, I am researching IM issues in social networks.
