@@ -1,8 +1,3 @@
 # 📝Presentations
 
-## Invited Talks
-- **.** 
-
-## Posters
-- 
-- **.** 
+-**Presentation on NBER-CCER conference ,2025,Beijing** 
